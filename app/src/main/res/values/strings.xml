@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TAXCALCULATOR</string>
+    <string name="calculate_incometax">Calculate IncomeTax</string>
+    <string name="income_tax">Income Tax</string>
+    <string name="gst_tax">GST Tax</string>
+    <string name="calculate_gst">Calculate GST</string>
+</resources>
